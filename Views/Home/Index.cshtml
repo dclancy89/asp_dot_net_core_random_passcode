@@ -1,0 +1,19 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Random Passcode</title>
+    <link rel="stylesheet" href="~/css/style.css">
+</head>
+<body>
+    <div id="pagewrap">
+        <h1>Random Passcode</h1>
+
+        <p>Random Passcode (passcode #@ViewBag.Count)</p>
+        <p class="passcode">@ViewBag.Passcode</p>
+        <p><a href="/">Generate</a></p>
+
+        <p><a href="/reset">Reset</a></p>
+    </div>
+</body>
+</html>

@@ -1,0 +1,10 @@
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Random Passcode/bin/Debug/netcoreapp2.0/Random Passcode.deps.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Random Passcode/bin/Debug/netcoreapp2.0/Random Passcode.runtimeconfig.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Random Passcode/bin/Debug/netcoreapp2.0/Random Passcode.runtimeconfig.dev.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Random Passcode/bin/Debug/netcoreapp2.0/Random Passcode.dll
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Random Passcode/bin/Debug/netcoreapp2.0/Random Passcode.pdb
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Random Passcode/obj/Debug/netcoreapp2.0/Random Passcode.csproj.CoreCompileInputs.cache
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Random Passcode/obj/Debug/netcoreapp2.0/Random Passcode.AssemblyInfoInputs.cache
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Random Passcode/obj/Debug/netcoreapp2.0/Random Passcode.AssemblyInfo.cs
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Random Passcode/obj/Debug/netcoreapp2.0/Random Passcode.dll
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Random Passcode/obj/Debug/netcoreapp2.0/Random Passcode.pdb
